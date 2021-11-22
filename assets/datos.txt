@@ -1,0 +1,110 @@
+
+
+
+<div class="card mb-3 mt-3 shadow p-3 mb-5 bg-body rounded">
+  <div class="row g-0">
+    <div class="img-hover-zoom col-md-4">
+      <img src="assets/img/p1.jpg" class="img-fluid rounded-start" alt="pez disco">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title text-end" id="contenedor1">Pez Disco</h5>
+        <p class="card-text  text-end"  id="prod1">PP1A</p>
+        <p class="card-text  text-end" >Precio:150.00$</p>
+    
+        </div>
+        
+     
+       <button onclick="addRow('tabla','contenedor1','prod1')" class="btn btn-primary float-end me-2 mb-2">
+        +
+        </button>
+       
+     
+    
+    </div>
+  </div>
+</div>
+
+<div class="card mb-3 mt-3 shadow p-3 mb-5 bg-body rounded">
+  <div class="row g-0">
+    <div class="img-hover-zoom col-md-4">
+      <img src="assets/img/p3.jpg" class="img-fluid rounded-start" alt="pez betta">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title text-end" id="contenedor2">Pez Betta</h5>
+        <p class="card-text  text-end"  id="prod2">PP2A</p>
+        <p class="card-text  text-end" >Precio:10.00$</p>
+     
+      </div>
+       <button onclick="addRow('tabla','contenedor2','prod2')" class="btn btn-primary btn btn-primary float-end me-2 mb-2">
+        +
+        </button>
+   
+    </div>
+  </div>
+</div>
+
+
+<div class="card mb-3 mt-3 shadow p-3 mb-5 bg-body rounded">
+  <div class="row g-0">
+    <div class="img-hover-zoom col-md-4">
+      <img src="assets/img/p2.jpg" class="img-fluid rounded-start" alt="pez escalar">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title text-end" id="contenedor3">Pez Escalar</h5>
+        <p class="card-text  text-end"  id="prod3">PP3A</p>
+        <p class="card-text  text-end" >Precio:15.00$</p>
+ </div>
+       <button onclick="addRow('tabla','contenedor3','prod3')" class="btn btn-primary btn btn-primary float-end me-2 mb-2">
+        +
+        </button>
+       
+     
+    </div>
+  </div>
+</div>
+
+
+<div class="card mb-3 mt-3 shadow p-3 mb-5 bg-body rounded">
+  <div class="row g-0">
+    <div class="img-hover-zoom col-md-4">
+      <img src="assets/img/p4.jpg" class="img-fluid rounded-start" alt="pez payaso">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title text-end" id="contenedor4">Pez Payaso</h5>
+        <p class="card-text  text-end"  id="prod4">PP4A</p>
+        <p class="card-text  text-end" >Precio:6.00$</p>
+     
+      </div>
+       <button onclick="addRow('tabla','contenedor4','prod4')" class="btn btn-primary btn btn-primary float-end me-2 mb-2">
+        +
+        </button>
+    
+    </div>
+  </div>
+</div>
+
+
+
+<div class="card mb-3 mt-3 shadow p-3 mb-5 bg-body rounded">
+  <div class="row g-0">
+    <div class="img-hover-zoom col-md-4">
+      <img src="assets/img/p5.jpg" class="img-fluid rounded-start" alt="pez monja">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title text-end" id="contenedor5">Pez monja</h5>
+        <p class="card-text  text-end"  id="prod5">PP5A</p>
+        <p class="card-text  text-end" >Precio:1.00$</p>
+  </div>
+       <button onclick="addRow('tabla','contenedor5','prod5')" class="btn btn-primary btn btn-primary float-end me-2 mb-2">
+        +
+        </button>
+        
+      
+    </div>
+  </div>
+</div>
